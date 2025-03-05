@@ -1,1 +1,2 @@
 # WebSite_Loader
+This code creates an **ultra-creative preloader** with a **3D rotating cube, a loading text animation, and a progress bar.** The **preloader** is displayed when the page loads and disappears after **5 seconds**, revealing the main content. The **cube rotates infinitely** using CSS animations, while the **loading text dots blink dynamically.** The progress bar fills gradually to indicate loading status. The JavaScript adds a **smooth transition effect** to hide the preloader and display the content. 🚀
